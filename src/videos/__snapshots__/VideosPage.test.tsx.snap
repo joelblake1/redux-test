@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideosPage Should match snapshot 1`] = `
+<VideosComponent
+  fetchVideos={[MockFunction]}
+  videos={
+    Array [
+      Object {
+        "key": "asd",
+        "name": "first video",
+      },
+    ]
+  }
+/>
+`;
